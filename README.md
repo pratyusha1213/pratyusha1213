@@ -1,12 +1,4 @@
-Here's a GitHub profile README template styled like the example, tailored to your background and LinkedIn info:
-
-```markdown
-<p align="center">
-  <!-- Add a nice header banner using capsule-render or a GIF -->
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World%20%E2%9C%8C&animation=fadeIn&color=gradient" alt="Hello World" />
-</p>
-
-### 👋 Hi there, I’m Pratyusha
+👋 Hi there, I’m Pratyusha
 
 I’m an **Aspiring Data Scientist & Cloud-Native Developer** with 3+ years of experience in software engineering and AI-driven solutions. I love transforming raw data into meaningful insights and building scalable, intelligent systems.
 
@@ -55,9 +47,3 @@ Check out more projects in my repositories below 👇
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratyushaduvvuri98/)  
 - 💻 [Portfolio](https://master--pratyushaduvvuri.netlify.app/)  
 - 🧑‍💻 [GitHub Profile](https://github.com/pratyusha1213)
-
----
-
-<!-- Optionally add GitHub stats cards -->
-![Pratyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyusha1213&show_icons=true&theme=radical)
-```
