@@ -6,7 +6,7 @@ I’m an **Aspiring Data Scientist & Cloud-Native Developer** with 3+ years of e
 - 💼 Worked at **Capgemini** integrating cloud systems and optimizing AI workflows  
 - 🌱 Passionate about **Machine Learning**, **LLMs**, and **Generative AI**  
 - 👯 Looking to collaborate on open-source data science or AI projects  
-- 📫 Reach me at [your.email@example.com] or connect via LinkedIn
+- 📫 Reach me at prtyushaduvvuri98@gmail.com or connect via LinkedIn
 
 ---
 
@@ -17,8 +17,6 @@ I’m an **Aspiring Data Scientist & Cloud-Native Developer** with 3+ years of e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
